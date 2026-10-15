@@ -1,8 +1,4 @@
-# Fabric-Defect-Detection-
 # Fabric Defect Detection Using Deep Learning
-
-## Overview
-
 This research project focuses on automated fabric defect detection using YOLO object-detection models. The aim is to identify and localize defects in textile images and investigate how architectural modifications affect detection performance.
 
 The experiments progress from a baseline model to attention-based and small-object detection improvements, followed by a comparison with YOLOv11n and a final experimental workflow.
